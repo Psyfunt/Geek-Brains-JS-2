@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+    <form action="#" class="form">
+        <label class="userName " for="name">Имя пользователя
+            <input  id="name" type="text"><span class="error-description"></span></label>
+        <label class="userPhone " for="phone">Телефон пользователя
+            <input  id="phone" type="tel"><span class="error-description"></span></label>
+        <label class="userEmail " for="email">E-mail пользователя
+            <input  id="email" type="email"><span class="error-description"></span></label>
+        <label class="userText " for="text">Текст пользователя
+            <textarea  name="text" id="text" ></textarea></label>
+        <button class="form-btn" type="submit">Отправить форму</button>
+    </form>
+</div>
+<script>
+
+    class Validator {
+        constructor(form) {
+            this.form = document.querySelector(form)
+            this._init();
+
+        }
+
+        _init(){
+            let result =[];
+            this.form.addEventListener('submit', function (){
+                console.log(result)
+            })
+            this.form.addEventListener('change', function (event){
+
+                if (event.target.id  === 'name') {
+                   result.push(Validator._tryName(event.target.value));
+                    console.log(result)
+                } else if (event.target.id === 'phone') {
+                     result.push(Validator._tryPhone(event.target.value)) ;
+
+                } else if (event.target.id === 'email') {
+                     result.push(Validator._tryEmail(event.target.value)) ;
+
+                }
+            })
+
+
+        };
+        static _tryName(value){
+            let name = document.querySelector('.userName');
+           if(value.match(/^([a-zа-яё]+|\d+)$/i) === null){
+               name.querySelector('#name').classList.add('error')
+               name.querySelector('.error-description').innerText = "Имя должно содержать только буквы!"
+               return false
+           } else {
+               name.querySelector('#name').classList.remove('error')
+               name.querySelector('.error-description').innerText = ""
+               return true
+           }
+        }
+        static _tryPhone(value){
+            let name = document.querySelector('.userPhone');
+
+        }
+        static _tryEmail(value){
+            let email = document.querySelector('.userEmail');
+            if(value.match(/^[A-Z0-9._%+-]+@[A-Z0-9-]+.+.[A-Z]{2,4}$/i) === null){
+                email.querySelector('#email').classList.add('error')
+                email.querySelector('.error-description').innerText = "E-mail имеет вид mymail@mail.ru, или my.mail@mail.ru, или my-mail@mail.ru."
+                return false
+            }else{
+                email.querySelector('#email').classList.remove('error')
+                email.querySelector('.error-description').innerText = ""
+                return true
+            }
+        }
+    }
+    const validator = new Validator('.form');
+
+</script>
+</body>
+</html>
