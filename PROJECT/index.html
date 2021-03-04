@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>E-SHOP</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div id="app">
+    <header>
+        <div class="logo">E-shop</div>
+        <div class="cart">
+            <filtration></filtration>
+<!--            <form action="#" class="search-form" @submit.prevent="filtered">-->
+<!--                <input type="text" v-model="searchLine" class="search-field">-->
+<!--                <button class="btn-search"  type="submit">-->
+<!--                    <i class="fas fa-search"></i>-->
+<!--                </button>-->
+<!--            </form>-->
+            <cart ref="cart"></cart>
+        </div>
+    </header>
+    <main>
+        <error ref="error"></error>
+        <products  ref="products"></products>
+    </main>
+</div>
+    <script defer src="https://use.fontawesome.com/releases/v5.7.2/js/all.js" integrity="sha384-0pzryjIRos8mFBWMzSSZApWtPl/5++eIfzYmTgBBmXYdhvxPc+XcFEk+zJwDgWbP" crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/vue@next"></script>
+    <script defer src="js/main.js" type="module"></script>
+</body>
+</html>
+
