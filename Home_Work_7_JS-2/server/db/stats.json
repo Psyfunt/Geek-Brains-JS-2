@@ -1,0 +1,292 @@
+[
+    {
+        "time": "March 8th 2021, 11:32:58 am",
+        "act": "update",
+        "name": "Ноутбук"
+    },
+    {
+        "time": "March 8th 2021, 11:32:59 am",
+        "act": "remove",
+        "name": "Ноутбук"
+    },
+    {
+        "time": "March 8th 2021, 11:32:59 am",
+        "act": "remove",
+        "name": "Gamepad"
+    },
+    {
+        "time": "March 8th 2021, 11:32:59 am",
+        "act": "remove",
+        "name": "Мышка"
+    },
+    {
+        "time": "March 8th 2021, 11:34:08 am",
+        "act": "add",
+        "name": "Мышка"
+    },
+    {
+        "time": "March 8th 2021, 11:34:09 am",
+        "act": "update",
+        "name": "Мышка"
+    },
+    {
+        "time": "March 8th 2021, 11:34:09 am",
+        "act": "update",
+        "name": "Мышка"
+    },
+    {
+        "time": "March 8th 2021, 11:34:09 am",
+        "act": "update",
+        "name": "Мышка"
+    },
+    {
+        "time": "March 8th 2021, 11:34:10 am",
+        "act": "update",
+        "name": "Мышка"
+    },
+    {
+        "time": "March 8th 2021, 11:34:11 am",
+        "act": "update",
+        "name": "Мышка"
+    },
+    {
+        "time": "March 8th 2021, 11:34:11 am",
+        "act": "update",
+        "name": "Мышка"
+    },
+    {
+        "time": "March 8th 2021, 11:34:12 am",
+        "act": "remove",
+        "name": "Мышка"
+    },
+    {
+        "time": "March 8th 2021, 11:34:13 am",
+        "act": "add",
+        "name": "Keyboard"
+    },
+    {
+        "time": "March 8th 2021, 11:34:13 am",
+        "act": "update",
+        "name": "Keyboard"
+    },
+    {
+        "time": "March 8th 2021, 11:34:13 am",
+        "act": "update",
+        "name": "Keyboard"
+    },
+    {
+        "time": "March 8th 2021, 11:34:13 am",
+        "act": "update",
+        "name": "Keyboard"
+    },
+    {
+        "time": "March 8th 2021, 11:34:14 am",
+        "act": "add",
+        "name": "Gamepad"
+    },
+    {
+        "time": "March 8th 2021, 11:34:14 am",
+        "act": "update",
+        "name": "Gamepad"
+    },
+    {
+        "time": "March 8th 2021, 11:34:15 am",
+        "act": "update",
+        "name": "Gamepad"
+    },
+    {
+        "time": "March 8th 2021, 11:34:15 am",
+        "act": "add",
+        "name": "Ноутбук"
+    },
+    {
+        "time": "March 8th 2021, 11:34:15 am",
+        "act": "update",
+        "name": "Ноутбук"
+    },
+    {
+        "time": "March 8th 2021, 11:34:16 am",
+        "act": "add",
+        "name": "Мышка"
+    },
+    {
+        "time": "March 8th 2021, 11:34:16 am",
+        "act": "update",
+        "name": "Мышка"
+    },
+    {
+        "time": "March 8th 2021, 11:34:24 am",
+        "act": "update",
+        "name": "Мышка"
+    },
+    {
+        "time": "March 8th 2021, 11:34:24 am",
+        "act": "remove",
+        "name": "Мышка"
+    },
+    {
+        "time": "March 8th 2021, 11:34:25 am",
+        "act": "update",
+        "name": "Ноутбук"
+    },
+    {
+        "time": "March 8th 2021, 11:34:25 am",
+        "act": "remove",
+        "name": "Ноутбук"
+    },
+    {
+        "time": "March 8th 2021, 11:34:26 am",
+        "act": "update",
+        "name": "Gamepad"
+    },
+    {
+        "time": "March 8th 2021, 11:34:26 am",
+        "act": "update",
+        "name": "Gamepad"
+    },
+    {
+        "time": "March 8th 2021, 11:34:27 am",
+        "act": "update",
+        "name": "Keyboard"
+    },
+    {
+        "time": "March 8th 2021, 11:34:27 am",
+        "act": "update",
+        "name": "Keyboard"
+    },
+    {
+        "time": "March 8th 2021, 11:34:27 am",
+        "act": "update",
+        "name": "Keyboard"
+    },
+    {
+        "time": "March 8th 2021, 11:34:27 am",
+        "act": "remove",
+        "name": "Keyboard"
+    },
+    {
+        "time": "March 8th 2021, 11:34:28 am",
+        "act": "remove",
+        "name": "Gamepad"
+    },
+    {
+        "time": "March 8th 2021, 11:36:40 am",
+        "act": "add",
+        "name": "Мышка"
+    },
+    {
+        "time": "March 8th 2021, 11:36:40 am",
+        "act": "update",
+        "name": "Мышка"
+    },
+    {
+        "time": "March 8th 2021, 11:36:40 am",
+        "act": "update",
+        "name": "Мышка"
+    },
+    {
+        "time": "March 8th 2021, 11:36:41 am",
+        "act": "update",
+        "name": "Мышка"
+    },
+    {
+        "time": "March 8th 2021, 11:36:42 am",
+        "act": "add",
+        "name": "Ноутбук"
+    },
+    {
+        "time": "March 8th 2021, 11:36:42 am",
+        "act": "update",
+        "name": "Ноутбук"
+    },
+    {
+        "time": "March 8th 2021, 11:36:42 am",
+        "act": "update",
+        "name": "Ноутбук"
+    },
+    {
+        "time": "March 8th 2021, 11:36:42 am",
+        "act": "update",
+        "name": "Ноутбук"
+    },
+    {
+        "time": "March 8th 2021, 11:36:43 am",
+        "act": "update",
+        "name": "Ноутбук"
+    },
+    {
+        "time": "March 8th 2021, 11:36:43 am",
+        "act": "add",
+        "name": "Gamepad"
+    },
+    {
+        "time": "March 8th 2021, 11:36:44 am",
+        "act": "update",
+        "name": "Gamepad"
+    },
+    {
+        "time": "March 8th 2021, 11:36:44 am",
+        "act": "update",
+        "name": "Gamepad"
+    },
+    {
+        "time": "March 8th 2021, 11:36:45 am",
+        "act": "update",
+        "name": "Gamepad"
+    },
+    {
+        "time": "March 8th 2021, 11:36:45 am",
+        "act": "update",
+        "name": "Gamepad"
+    },
+    {
+        "time": "March 8th 2021, 11:36:45 am",
+        "act": "remove",
+        "name": "Gamepad"
+    },
+    {
+        "time": "March 8th 2021, 11:36:46 am",
+        "act": "update",
+        "name": "Ноутбук"
+    },
+    {
+        "time": "March 8th 2021, 11:36:46 am",
+        "act": "update",
+        "name": "Ноутбук"
+    },
+    {
+        "time": "March 8th 2021, 11:36:46 am",
+        "act": "update",
+        "name": "Ноутбук"
+    },
+    {
+        "time": "March 8th 2021, 11:36:47 am",
+        "act": "update",
+        "name": "Ноутбук"
+    },
+    {
+        "time": "March 8th 2021, 11:36:47 am",
+        "act": "remove",
+        "name": "Ноутбук"
+    },
+    {
+        "time": "March 8th 2021, 11:36:48 am",
+        "act": "update",
+        "name": "Мышка"
+    },
+    {
+        "time": "March 8th 2021, 11:36:48 am",
+        "act": "update",
+        "name": "Мышка"
+    },
+    {
+        "time": "March 8th 2021, 11:36:48 am",
+        "act": "update",
+        "name": "Мышка"
+    },
+    {
+        "time": "March 8th 2021, 11:36:48 am",
+        "act": "remove",
+        "name": "Мышка"
+    }
+]
