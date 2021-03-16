@@ -1,0 +1,56 @@
+[
+  {
+    "id_product": 1,
+    "product_name": "Mango T-Shirt",
+    "price": 52,
+    "product_image": "img/featured_items/featured_items_1.jpg"
+  },
+  {
+    "id_product": 2,
+    "product_name": "Mango T-Shirt",
+    "price": 52,
+    "product_image": "img/featured_items/featured_items_2.jpg"
+  },
+  {
+    "id_product": 3,
+    "product_name": "Mango T-Shirt",
+    "price": 52,
+    "product_image": "img/featured_items/featured_items_3.jpg"
+  },
+  {
+    "id_product": 4,
+    "product_name": "Mango T-Shirt",
+    "price": 52,
+    "product_image": "img/featured_items/featured_items_4.jpg"
+  },
+  {
+    "id_product": 5,
+    "product_name": "Mango T-Shirt",
+    "price": 52,
+    "product_image": "img/featured_items/featured_items_5.jpg"
+  },
+  {
+    "id_product": 6,
+    "product_name": "Mango T-Shirt",
+    "price": 52,
+    "product_image": "img/featured_items/featured_items_6.jpg"
+  },
+  {
+    "id_product": 7,
+    "product_name": "Mango T-Shirt",
+    "price": 52,
+    "product_image": "img/featured_items/featured_items_7.jpg"
+  },
+  {
+    "id_product": 8,
+    "product_name": "Mango T-Shirt",
+    "price": 52,
+    "product_image": "img/featured_items/featured_items_8.jpg"
+  },
+  {
+    "id_product": 9,
+    "product_name": "Mango T-Shirt",
+    "price": 52,
+    "product_image": "img/featured_items/featured_items_8.jpg"
+  }
+]
